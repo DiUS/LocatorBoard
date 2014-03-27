@@ -8,11 +8,11 @@ base: &base
 
 development:
   <<: *base
-  database: lacatorboard_dev
+  database: locatorboard_dev
 
 test:
   <<: *base
-  database: lacatorboard_test
+  database: locatorboard_test
 
 production:
   <<: *base
