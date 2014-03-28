@@ -64,13 +64,18 @@ this.initRGraph = ->
       left = parseInt(style.left)
       w = domElement.offsetWidth
       style.left = (left - w / 2) + 'px'
+
+    onBeforePlotNode: (adj) ->
+#      if adj.nodeFrom.selected and adj.nodeTo.selected
+#        adj.setData('color', '#ffc')
+#      else
+#        adj.removeData('color')
   )
 
   # init data
-  $.getJSON("/data.json", {}, (data) ->
+  $.getJSON("/weighted_data.json", {}, (data) ->
 
     _(data.data).each (item) ->
-      console.log item
       id1 = _(item.user1).classify()
       node = rgraph.graph.getNode(id1)
       if not node
