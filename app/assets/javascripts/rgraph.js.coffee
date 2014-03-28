@@ -12,7 +12,6 @@ useGradients = nativeCanvasSupport;
 animate = !(iStuff || !nativeCanvasSupport);
 
 this.initRGraph = ->
-  graph = '[{id:"190_0", adjacencies:["node0"]}, {id:"node0", name:"node0 name", data:{"some other key":"some other value"}, adjacencies:["node1", "node2", "node3", "node4", "node5"]}, {id:"node1", name:"node1 name", data:{"some other key":"some other value"}, adjacencies:["node0", "node2", "node3", "node4", "node5"]}, {id:"node2", name:"node2 name", data:{"some other key":"some other value"}, adjacencies:["node0", "node1", "node3", "node4", "node5"]}, {id:"node3", name:"node3 name", data:{"some other key":"some other value"}, adjacencies:["node0", "node1", "node2", "node4", "node5"]}, {id:"node4", name:"node4 name", data:{"some other key":"some other value"}, adjacencies:["node0", "node1", "node2", "node3", "node5"]}, {id:"node5", name:"node5 name", data:{"some other key":"some other value"}, adjacencies:["node0", "node1", "node2", "node3", "node4"]}, {id:"4619_46", adjacencies:["190_0"]}, {id:"236585_30", adjacencies:["190_0"]}, {id:"131161_18", adjacencies:["190_0"]}, {id:"41529_12", adjacencies:["190_0"]}]'
   rgraph = new $jit.RGraph(
     injectInto: 'infovis'
   # Optional: Create a background canvas
@@ -68,19 +67,24 @@ this.initRGraph = ->
   )
 
   # init data
-  $.get('/rgraph.json', (data) ->
-    console.log data
-    rgraph.loadJSON(data)
+  $.getJSON("/data.json", {}, (data) ->
 
-    # add some extra edges to the tree
-    # to make it a graph (just for fun)
-    rgraph.graph.addAdjacence(
-      { 'id': '236585_30' }
-      { 'id': '236583_23'}, null)
-    rgraph.graph.addAdjacence({ 'id': '236585_30'}, {'id': '4619_46'}, null)
+    _(data.data).each (item) ->
+      console.log item
+      id1 = _(item.user1).classify()
+      node = rgraph.graph.getNode(id1)
+      if not node
+        rgraph.graph.addNode(id: id1, name: item.user1, {})
+      id2 = _(item.user2).classify()
+      node2 = rgraph.graph.getNode(id2)
+      if not node2
+        rgraph.graph.addNode(id: id2, name: item.user2, {})
+      rgraph.graph.addAdjacence({ 'id': id1 }, { 'id': id2}, null)
 
-    # Compute positions and plot
-    rgraph.refresh()
+      if not rgraph.root
+        rgraph.root = id1
+
+      rgraph.refresh()
 
     rgraph.compute('end')
     rgraph.fx.animate(modes:['polar'], duration: 2000)

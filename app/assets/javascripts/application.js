@@ -16,4 +16,8 @@
 //= require angular-resource
 //= require angular-sanitize
 //= require jit
+//= require underscore
+//= require underscore.string
 //= require_tree .
+
+_.mixin(_.str.exports());

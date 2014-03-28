@@ -1,4 +1,4 @@
-{data: [{"user1": "Erik Danielsen", "user2": "John Doxey"},
+{"data": [{"user1": "Erik Danielsen", "user2": "John Doxey"},
 {"user1": "Erik Danielsen", "user2": "Ben Dewis"},
 {"user1": "Erik Danielsen", "user2": "Marc Phoa"},
 {"user1": "Erik Danielsen", "user2": "Daryl Wilding-McBride"},
@@ -719,5 +719,5 @@
 {"user1": "Alistair MacGregor", "user2": "James Wolstenholme"},
 {"user1": "Alistair MacGregor", "user2": "Daniel Baker"},
 {"user1": "Alistair MacGregor", "user2": "Frank Losinno"},
-{"user1": "Alistair MacGregor", "user2": "Elliott Murray"},
+{"user1": "Alistair MacGregor", "user2": "Elliott Murray"}
 ]}
