@@ -67,11 +67,15 @@ this.initRGraph = ->
       w = domElement.offsetWidth
       style.left = (left - w / 2) + 'px'
 
-    onBeforePlotNode: (adj) ->
-#      if adj.nodeFrom.selected and adj.nodeTo.selected
-#        adj.setData('color', '#ffc')
-#      else
-#        adj.removeData('color')
+    onBeforePlotLine: (adj) ->
+      if adj.nodeFrom._depth == 0 or adj.nodeTo._depth == 0
+        adj.setData('color', 'white')
+        adj.setData('alpha', '1.0')
+        adj.setData('lineWidth', '1.0')
+      else
+        adj.setData('color', '#C17878')
+        adj.setData('alpha', '0.3')
+        adj.setData('lineWidth', '0.5')
   )
 
   # init data
