@@ -8,6 +8,8 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
 gem 'therubyracer'
 gem 'gmaps4rails'
+gem 'angularjs-rails'
+gem 'haml'
 
 group :doc do
   gem 'sdoc', require: false
