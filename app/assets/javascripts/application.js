@@ -15,4 +15,5 @@
 //= require angular
 //= require angular-resource
 //= require angular-sanitize
+//= require jit
 //= require_tree .
