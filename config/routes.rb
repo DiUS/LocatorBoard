@@ -1,4 +1,4 @@
 LocatorBoard::Application.routes.draw do
-	resources :user
+	resources :users
 	root 'locator_board#index'
 end
