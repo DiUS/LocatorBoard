@@ -60,6 +60,7 @@ this.initRGraph = ->
       else
         style.fontSize = "0.5em"
         style.color = "#393939"
+        style.display = 'none'
 
       left = parseInt(style.left)
       w = domElement.offsetWidth
@@ -74,19 +75,20 @@ this.initRGraph = ->
       id1 = _(item.user1).classify()
       node = rgraph.graph.getNode(id1)
       if not node
-        rgraph.graph.addNode(id: id1, name: item.user1, {})
+        rgraph.graph.addNode(id: id1, name: item.user1, item)
       id2 = _(item.user2).classify()
       node2 = rgraph.graph.getNode(id2)
       if not node2
-        rgraph.graph.addNode(id: id2, name: item.user2, {})
-      rgraph.graph.addAdjacence({ 'id': id1 }, { 'id': id2}, null)
+        rgraph.graph.addNode(id: id2, name: item.user2, item)
+      if not rgraph.graph.getAdjacence(id1, id2)
+        rgraph.graph.addAdjacence({ 'id': id1 }, { 'id': id2}, null)
 
       if not rgraph.root
         rgraph.root = id1
 
-      rgraph.refresh()
+    rgraph.refresh()
 
-    rgraph.compute('end')
+#    rgraph.compute('end')
     rgraph.fx.animate(modes:['polar'], duration: 2000)
   )
 
