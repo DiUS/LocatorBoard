@@ -41,7 +41,7 @@ this.initRGraph = ->
   # Add the node's name into the label
   # This method is called only once, on label creation.
     onCreateLabel: (domElement, node) ->
-      domElement.innerHTML = node.name
+      domElement.innerHTML = "<p>" + node.name + "</p>"
       domElement.onclick = -> rgraph.onClick(node.id)
 
   # Change the node's style based on its position.
@@ -87,7 +87,6 @@ this.initRGraph = ->
 
     rgraph.refresh()
 
-#    rgraph.compute('end')
     rgraph.fx.animate(modes:['polar'], duration: 2000)
   )
 
