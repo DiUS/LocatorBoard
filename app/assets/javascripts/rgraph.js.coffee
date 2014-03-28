@@ -40,7 +40,7 @@ this.initRGraph = ->
 
     onAfterPlotNode: (node) ->
       if node._depth is 0
-        node.setData('color', '#BB0000')
+        node.setData('color', '#FFFFFF')
 
   # Add the node's name into the label
   # This method is called only once, on label creation.
