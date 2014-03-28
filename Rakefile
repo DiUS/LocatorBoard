@@ -10,12 +10,11 @@ task :transform => :environment do
 
   puts Rails.env
 
-  File.open("#{Rails.root}/public/data.json", 'w') do |file|
-  	
-  	file.write("{data: [")
 
   	last_project = :none
   	first_user = :none
+
+    data = []
 
   	PeopleRelationship.order(:proj_id).all.each do |pr|
 
@@ -24,16 +23,18 @@ task :transform => :environment do
   			first_user = "#{pr.first_name} #{pr.last_name}"
   			last_project = pr.proj_id
   		else
-  			file.write "{\"user1\": \"#{first_user}\", \"user2\": \"#{pr.first_name} #{pr.last_name}\"},\n"
+        count = PeopleRelationship.where(:user_id=>pr.user_id).count
+  			
+        data << { :user1 => first_user, :user2 => "#{pr.first_name} #{pr.last_name}", :weight => count }
 
   		end
 
+    end
 
-  	end
+    data = data.uniq
 
-  	file.write "]}"
-  	
-  end
+
+  File.open("#{Rails.root}/public/weighted_data.json", 'w') { |file| file.write "{\"data\":" + JSON.pretty_generate(data) + "}" }   
 
 
 end

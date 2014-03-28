@@ -1,0 +1,3162 @@
+{"data":[
+  {
+    "user1": "Erik Danielsen",
+    "user2": "John Doxey",
+    "weight": 19
+  },
+  {
+    "user1": "Erik Danielsen",
+    "user2": "Ben Dewis",
+    "weight": 12
+  },
+  {
+    "user1": "Erik Danielsen",
+    "user2": "Marc Phoa",
+    "weight": 10
+  },
+  {
+    "user1": "Erik Danielsen",
+    "user2": "Daryl Wilding-McBride",
+    "weight": 33
+  },
+  {
+    "user1": "Erik Danielsen",
+    "user2": "Cameron Smith",
+    "weight": 13
+  },
+  {
+    "user1": "Clency Coutet",
+    "user2": "Mark Anderson",
+    "weight": 25
+  },
+  {
+    "user1": "Mark Anderson",
+    "user2": "Will Hawkins",
+    "weight": 4
+  },
+  {
+    "user1": "Ken Ong",
+    "user2": "Nuzakat Ali",
+    "weight": 23
+  },
+  {
+    "user1": "Ken Ong",
+    "user2": "Joe Losinno",
+    "weight": 14
+  },
+  {
+    "user1": "Ken Ong",
+    "user2": "Aaron Thomson",
+    "weight": 5
+  },
+  {
+    "user1": "Ronald Holshausen",
+    "user2": "Brendan Spinks",
+    "weight": 12
+  },
+  {
+    "user1": "Ronald Holshausen",
+    "user2": "Stephen Bartlett",
+    "weight": 17
+  },
+  {
+    "user1": "Ken Ong",
+    "user2": "Tal Rotbart",
+    "weight": 22
+  },
+  {
+    "user1": "Ken Ong",
+    "user2": "Sean Brady",
+    "weight": 20
+  },
+  {
+    "user1": "Ken Ong",
+    "user2": "Daryl Wilding-McBride",
+    "weight": 33
+  },
+  {
+    "user1": "Steph Bannister",
+    "user2": "Joe Losinno",
+    "weight": 14
+  },
+  {
+    "user1": "Steph Bannister",
+    "user2": "Paula Ngov",
+    "weight": 20
+  },
+  {
+    "user1": "Steph Bannister",
+    "user2": "Jessica Lowe",
+    "weight": 2
+  },
+  {
+    "user1": "Joe Losinno",
+    "user2": "Ken Ong",
+    "weight": 22
+  },
+  {
+    "user1": "Mick Reidy",
+    "user2": "Joe Losinno",
+    "weight": 14
+  },
+  {
+    "user1": "Mark Anderson",
+    "user2": "Zoran Angelovski",
+    "weight": 11
+  },
+  {
+    "user1": "Clency Coutet",
+    "user2": "John Kavadias",
+    "weight": 9
+  },
+  {
+    "user1": "Mick Reidy",
+    "user2": "Daryl Wilding-McBride",
+    "weight": 33
+  },
+  {
+    "user1": "Jerome Lebel-Jones",
+    "user2": "Joe Losinno",
+    "weight": 14
+  },
+  {
+    "user1": "Jerome Lebel-Jones",
+    "user2": "Fred Rotbart",
+    "weight": 3
+  },
+  {
+    "user1": "Jerome Lebel-Jones",
+    "user2": "Frank Losinno",
+    "weight": 4
+  },
+  {
+    "user1": "Jerome Lebel-Jones",
+    "user2": "Tal Rotbart",
+    "weight": 22
+  },
+  {
+    "user1": "Jerome Lebel-Jones",
+    "user2": "Travis Dixon",
+    "weight": 13
+  },
+  {
+    "user1": "Mick Reidy",
+    "user2": "Erik Danielsen",
+    "weight": 10
+  },
+  {
+    "user1": "Sean Brady",
+    "user2": "Julian Kelabora",
+    "weight": 15
+  },
+  {
+    "user1": "Sean Brady",
+    "user2": "Nuzakat Ali",
+    "weight": 23
+  },
+  {
+    "user1": "Sean Brady",
+    "user2": "Clency Coutet",
+    "weight": 12
+  },
+  {
+    "user1": "Sean Brady",
+    "user2": "Tal Rotbart",
+    "weight": 22
+  },
+  {
+    "user1": "Sean Brady",
+    "user2": "Ken Ong",
+    "weight": 22
+  },
+  {
+    "user1": "Sean Brady",
+    "user2": "Aaron Triantafyllidis",
+    "weight": 20
+  },
+  {
+    "user1": "Rhydian Thomas",
+    "user2": "Ricky Yim",
+    "weight": 36
+  },
+  {
+    "user1": "Bernie Schelberg",
+    "user2": "Rhydian Thomas",
+    "weight": 18
+  },
+  {
+    "user1": "Bernie Schelberg",
+    "user2": "Aaron Thomson",
+    "weight": 5
+  },
+  {
+    "user1": "Bernie Schelberg",
+    "user2": "Ricky Yim",
+    "weight": 36
+  },
+  {
+    "user1": "Bernie Schelberg",
+    "user2": "Ren Shao",
+    "weight": 13
+  },
+  {
+    "user1": "Bernie Schelberg",
+    "user2": "Prabha Pillay",
+    "weight": 8
+  },
+  {
+    "user1": "John Doxey",
+    "user2": "Sean Brady",
+    "weight": 20
+  },
+  {
+    "user1": "John Doxey",
+    "user2": "Aaron Triantafyllidis",
+    "weight": 20
+  },
+  {
+    "user1": "John Doxey",
+    "user2": "Julian Kelabora",
+    "weight": 15
+  },
+  {
+    "user1": "John Doxey",
+    "user2": "Tal Rotbart",
+    "weight": 22
+  },
+  {
+    "user1": "Daryl Wilding-McBride",
+    "user2": "Mick Reidy",
+    "weight": 23
+  },
+  {
+    "user1": "Daryl Wilding-McBride",
+    "user2": "Julian Kelabora",
+    "weight": 15
+  },
+  {
+    "user1": "Tal Rotbart",
+    "user2": "Ricky Yim",
+    "weight": 36
+  },
+  {
+    "user1": "Rhydian Thomas",
+    "user2": "Bernie Schelberg",
+    "weight": 7
+  },
+  {
+    "user1": "Rhydian Thomas",
+    "user2": "Prabha Pillay",
+    "weight": 8
+  },
+  {
+    "user1": "Rhydian Thomas",
+    "user2": "Ren Shao",
+    "weight": 13
+  },
+  {
+    "user1": "Ricky Yim",
+    "user2": "Nuzakat Ali",
+    "weight": 23
+  },
+  {
+    "user1": "Ricky Yim",
+    "user2": "Mark Anderson",
+    "weight": 25
+  },
+  {
+    "user1": "Sean Brady",
+    "user2": "John Doxey",
+    "weight": 19
+  },
+  {
+    "user1": "Sean Brady",
+    "user2": "John Kavadias",
+    "weight": 9
+  },
+  {
+    "user1": "Sean Brady",
+    "user2": "Joe Losinno",
+    "weight": 14
+  },
+  {
+    "user1": "Sean Brady",
+    "user2": "Rhydian Thomas",
+    "weight": 18
+  },
+  {
+    "user1": "Sean Brady",
+    "user2": "David Clarke",
+    "weight": 12
+  },
+  {
+    "user1": "Jerome Lebel-Jones",
+    "user2": "John Kavadias",
+    "weight": 9
+  },
+  {
+    "user1": "Jerome Lebel-Jones",
+    "user2": "Behrang Saeedzadeh",
+    "weight": 8
+  },
+  {
+    "user1": "Tal Rotbart",
+    "user2": "Julian Kelabora",
+    "weight": 15
+  },
+  {
+    "user1": "Rhydian Thomas",
+    "user2": "Sean Brady",
+    "weight": 20
+  },
+  {
+    "user1": "Sean Brady",
+    "user2": "Paula Ngov",
+    "weight": 20
+  },
+  {
+    "user1": "Sean Brady",
+    "user2": "Daryl Wilding-McBride",
+    "weight": 33
+  },
+  {
+    "user1": "Nuzakat Ali",
+    "user2": "Ricky Yim",
+    "weight": 36
+  },
+  {
+    "user1": "Nuzakat Ali",
+    "user2": "Rhydian Thomas",
+    "weight": 18
+  },
+  {
+    "user1": "Nuzakat Ali",
+    "user2": "Aaron Thomson",
+    "weight": 5
+  },
+  {
+    "user1": "Mick Reidy",
+    "user2": "Julian Kelabora",
+    "weight": 15
+  },
+  {
+    "user1": "Mick Reidy",
+    "user2": "David Clarke",
+    "weight": 12
+  },
+  {
+    "user1": "Mick Reidy",
+    "user2": "Nuzakat Ali",
+    "weight": 23
+  },
+  {
+    "user1": "Mick Reidy",
+    "user2": "John Kavadias",
+    "weight": 9
+  },
+  {
+    "user1": "Joo Aun Saw",
+    "user2": "Zoran Angelovski",
+    "weight": 11
+  },
+  {
+    "user1": "Joo Aun Saw",
+    "user2": "Mark Anderson",
+    "weight": 25
+  },
+  {
+    "user1": "Tal Rotbart",
+    "user2": "Nuzakat Ali",
+    "weight": 23
+  },
+  {
+    "user1": "Tal Rotbart",
+    "user2": "Sean Brady",
+    "weight": 20
+  },
+  {
+    "user1": "Tal Rotbart",
+    "user2": "Paula Ngov",
+    "weight": 20
+  },
+  {
+    "user1": "Tal Rotbart",
+    "user2": "Clency Coutet",
+    "weight": 12
+  },
+  {
+    "user1": "Tal Rotbart",
+    "user2": "Marc Phoa",
+    "weight": 10
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Daryl Wilding-McBride",
+    "weight": 33
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Erik Danielsen",
+    "weight": 10
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Matt Thorley",
+    "weight": 1
+  },
+  {
+    "user1": "Ronald Holshausen",
+    "user2": "John Doxey",
+    "weight": 19
+  },
+  {
+    "user1": "Ronald Holshausen",
+    "user2": "Ken Ong",
+    "weight": 22
+  },
+  {
+    "user1": "Ronald Holshausen",
+    "user2": "Marc Phoa",
+    "weight": 10
+  },
+  {
+    "user1": "Ricky Yim",
+    "user2": "Ren Shao",
+    "weight": 13
+  },
+  {
+    "user1": "Ricky Yim",
+    "user2": "Rhydian Thomas",
+    "weight": 18
+  },
+  {
+    "user1": "Richard Dean",
+    "user2": "Aaron Triantafyllidis",
+    "weight": 20
+  },
+  {
+    "user1": "Richard Dean",
+    "user2": "Aaron Thomson",
+    "weight": 5
+  },
+  {
+    "user1": "Richard Dean",
+    "user2": "Robert Postill",
+    "weight": 1
+  },
+  {
+    "user1": "Daryl Wilding-McBride",
+    "user2": "Paula Ngov",
+    "weight": 20
+  },
+  {
+    "user1": "John Doxey",
+    "user2": "Nuzakat Ali",
+    "weight": 23
+  },
+  {
+    "user1": "John Doxey",
+    "user2": "Daryl Wilding-McBride",
+    "weight": 33
+  },
+  {
+    "user1": "John Doxey",
+    "user2": "Paula Ngov",
+    "weight": 20
+  },
+  {
+    "user1": "John Doxey",
+    "user2": "Ronald Holshausen",
+    "weight": 14
+  },
+  {
+    "user1": "Aaron Triantafyllidis",
+    "user2": "Tal Rotbart",
+    "weight": 22
+  },
+  {
+    "user1": "Clency Coutet",
+    "user2": "Daryl Wilding-McBride",
+    "weight": 33
+  },
+  {
+    "user1": "Clency Coutet",
+    "user2": "Joe Losinno",
+    "weight": 14
+  },
+  {
+    "user1": "Clency Coutet",
+    "user2": "Dean Netherton",
+    "weight": 8
+  },
+  {
+    "user1": "Clency Coutet",
+    "user2": "Nuzakat Ali",
+    "weight": 23
+  },
+  {
+    "user1": "Simone Carmody",
+    "user2": "Ricky Yim",
+    "weight": 36
+  },
+  {
+    "user1": "Simone Carmody",
+    "user2": "Sean Brady",
+    "weight": 20
+  },
+  {
+    "user1": "Simone Carmody",
+    "user2": "Richard Fyffe",
+    "weight": 7
+  },
+  {
+    "user1": "Simone Carmody",
+    "user2": "Paul Henry",
+    "weight": 9
+  },
+  {
+    "user1": "Simone Carmody",
+    "user2": "John Doxey",
+    "weight": 19
+  },
+  {
+    "user1": "Simone Carmody",
+    "user2": "Ken Ong",
+    "weight": 22
+  },
+  {
+    "user1": "Simone Carmody",
+    "user2": "Jeff Cann",
+    "weight": 10
+  },
+  {
+    "user1": "Ronald Holshausen",
+    "user2": "Richard Dean",
+    "weight": 11
+  },
+  {
+    "user1": "Ronald Holshausen",
+    "user2": "Elliott Murray",
+    "weight": 12
+  },
+  {
+    "user1": "Ronald Holshausen",
+    "user2": "Paula Ngov",
+    "weight": 20
+  },
+  {
+    "user1": "Paula Ngov",
+    "user2": "Daryl Wilding-McBride",
+    "weight": 33
+  },
+  {
+    "user1": "Paula Ngov",
+    "user2": "Andrew Spinks",
+    "weight": 20
+  },
+  {
+    "user1": "Paula Ngov",
+    "user2": "Brendan Spinks",
+    "weight": 12
+  },
+  {
+    "user1": "Paula Ngov",
+    "user2": "Erik Danielsen",
+    "weight": 10
+  },
+  {
+    "user1": "Paula Ngov",
+    "user2": "Julian Kelabora",
+    "weight": 15
+  },
+  {
+    "user1": "Paula Ngov",
+    "user2": "John Doxey",
+    "weight": 19
+  },
+  {
+    "user1": "Paula Ngov",
+    "user2": "Sean Brady",
+    "weight": 20
+  },
+  {
+    "user1": "Rhydian Thomas",
+    "user2": "Peter Moran",
+    "weight": 1
+  },
+  {
+    "user1": "Rhydian Thomas",
+    "user2": "Andrew Spinks",
+    "weight": 20
+  },
+  {
+    "user1": "Stephen Bartlett",
+    "user2": "Aaron Triantafyllidis",
+    "weight": 20
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "Tal Rotbart",
+    "weight": 22
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "Nuzakat Ali",
+    "weight": 23
+  },
+  {
+    "user1": "David Clarke",
+    "user2": "Mike Bailey",
+    "weight": 3
+  },
+  {
+    "user1": "Elliott Murray",
+    "user2": "Sean Brady",
+    "weight": 20
+  },
+  {
+    "user1": "Elliott Murray",
+    "user2": "Brendan Spinks",
+    "weight": 12
+  },
+  {
+    "user1": "Elliott Murray",
+    "user2": "Paula Ngov",
+    "weight": 20
+  },
+  {
+    "user1": "Elliott Murray",
+    "user2": "Daryl Wilding-McBride",
+    "weight": 33
+  },
+  {
+    "user1": "Elliott Murray",
+    "user2": "Ronald Holshausen",
+    "weight": 14
+  },
+  {
+    "user1": "Elliott Murray",
+    "user2": "Andrew Spinks",
+    "weight": 20
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Daniel Livolsi",
+    "weight": 6
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Sofy Basir",
+    "weight": 15
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Ronald Holshausen",
+    "weight": 14
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Sean Brady",
+    "weight": 20
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Andrew Spinks",
+    "weight": 20
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Paula Ngov",
+    "weight": 20
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Elliott Murray",
+    "weight": 12
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Simone Carmody",
+    "weight": 7
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Ricky Yim",
+    "weight": 36
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Jeff Cann",
+    "weight": 10
+  },
+  {
+    "user1": "Paula Ngov",
+    "user2": "Ben Dewis",
+    "weight": 12
+  },
+  {
+    "user1": "Clency Coutet",
+    "user2": "Stefan Leszkiewicz",
+    "weight": 7
+  },
+  {
+    "user1": "Clency Coutet",
+    "user2": "Karen Darby",
+    "weight": 7
+  },
+  {
+    "user1": "Clency Coutet",
+    "user2": "Bethany Skurrie",
+    "weight": 10
+  },
+  {
+    "user1": "Clency Coutet",
+    "user2": "Tal Rotbart",
+    "weight": 22
+  },
+  {
+    "user1": "Clency Coutet",
+    "user2": "Richard Dean",
+    "weight": 11
+  },
+  {
+    "user1": "Clency Coutet",
+    "user2": "David Swensen",
+    "weight": 9
+  },
+  {
+    "user1": "Clency Coutet",
+    "user2": "Christian Schulze",
+    "weight": 1
+  },
+  {
+    "user1": "Clency Coutet",
+    "user2": "Anna Buttfield",
+    "weight": 3
+  },
+  {
+    "user1": "Clency Coutet",
+    "user2": "Warner Godfrey",
+    "weight": 3
+  },
+  {
+    "user1": "Clency Coutet",
+    "user2": "Kevin Littlejohn",
+    "weight": 4
+  },
+  {
+    "user1": "Mick Reidy",
+    "user2": "Cameron Smith",
+    "weight": 13
+  },
+  {
+    "user1": "Mick Reidy",
+    "user2": "Ken Ong",
+    "weight": 22
+  },
+  {
+    "user1": "Mick Reidy",
+    "user2": "Ben Dewis",
+    "weight": 12
+  },
+  {
+    "user1": "Mick Reidy",
+    "user2": "Travis Dixon",
+    "weight": 13
+  },
+  {
+    "user1": "Mick Reidy",
+    "user2": "John Doxey",
+    "weight": 19
+  },
+  {
+    "user1": "Prabha Pillay",
+    "user2": "Bernie Schelberg",
+    "weight": 7
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Clency Coutet",
+    "weight": 12
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Ken Ong",
+    "weight": 22
+  },
+  {
+    "user1": "David Clarke",
+    "user2": "Ronald Holshausen",
+    "weight": 14
+  },
+  {
+    "user1": "Fotini Karadimas",
+    "user2": "Mick Reidy",
+    "weight": 23
+  },
+  {
+    "user1": "Fotini Karadimas",
+    "user2": "Marc Phoa",
+    "weight": 10
+  },
+  {
+    "user1": "Fotini Karadimas",
+    "user2": "Tal Rotbart",
+    "weight": 22
+  },
+  {
+    "user1": "Fotini Karadimas",
+    "user2": "Ren Shao",
+    "weight": 13
+  },
+  {
+    "user1": "Fotini Karadimas",
+    "user2": "Paul Henry",
+    "weight": 9
+  },
+  {
+    "user1": "Fotini Karadimas",
+    "user2": "Luca Pistolesi",
+    "weight": 8
+  },
+  {
+    "user1": "Fotini Karadimas",
+    "user2": "Charles Blaxland",
+    "weight": 9
+  },
+  {
+    "user1": "Fotini Karadimas",
+    "user2": "Paula Ngov",
+    "weight": 20
+  },
+  {
+    "user1": "Fotini Karadimas",
+    "user2": "Rhydian Thomas",
+    "weight": 18
+  },
+  {
+    "user1": "Fotini Karadimas",
+    "user2": "Daniel Livolsi",
+    "weight": 6
+  },
+  {
+    "user1": "Bernd Meyer",
+    "user2": "Dean Netherton",
+    "weight": 8
+  },
+  {
+    "user1": "Bernd Meyer",
+    "user2": "Joe Losinno",
+    "weight": 14
+  },
+  {
+    "user1": "Bernd Meyer",
+    "user2": "Michael Gannon",
+    "weight": 10
+  },
+  {
+    "user1": "Bernd Meyer",
+    "user2": "Bethany Skurrie",
+    "weight": 10
+  },
+  {
+    "user1": "Bernd Meyer",
+    "user2": "Cameron Smith",
+    "weight": 13
+  },
+  {
+    "user1": "Bernd Meyer",
+    "user2": "Motonobu Sakai",
+    "weight": 2
+  },
+  {
+    "user1": "Bernd Meyer",
+    "user2": "Erik Danielsen",
+    "weight": 10
+  },
+  {
+    "user1": "Bernd Meyer",
+    "user2": "Johny Mattsson",
+    "weight": 8
+  },
+  {
+    "user1": "Bernd Meyer",
+    "user2": "Mark Anderson",
+    "weight": 25
+  },
+  {
+    "user1": "Bernd Meyer",
+    "user2": "John Kavadias",
+    "weight": 9
+  },
+  {
+    "user1": "Bernd Meyer",
+    "user2": "Stephen Bartlett",
+    "weight": 17
+  },
+  {
+    "user1": "Bernd Meyer",
+    "user2": "Zoran Angelovski",
+    "weight": 11
+  },
+  {
+    "user1": "Bernd Meyer",
+    "user2": "Ben Kersten",
+    "weight": 5
+  },
+  {
+    "user1": "Bernd Meyer",
+    "user2": "Justin Berry",
+    "weight": 7
+  },
+  {
+    "user1": "Bernd Meyer",
+    "user2": "Voon Wong",
+    "weight": 13
+  },
+  {
+    "user1": "Bernd Meyer",
+    "user2": "Sam Bergin",
+    "weight": 4
+  },
+  {
+    "user1": "Bernd Meyer",
+    "user2": "Joo Aun Saw",
+    "weight": 14
+  },
+  {
+    "user1": "Bernd Meyer",
+    "user2": "Stephen Smithwick",
+    "weight": 6
+  },
+  {
+    "user1": "Daniel Livolsi",
+    "user2": "Daryl Wilding-McBride",
+    "weight": 33
+  },
+  {
+    "user1": "Daniel Livolsi",
+    "user2": "Simone Carmody",
+    "weight": 7
+  },
+  {
+    "user1": "Robert Maldon",
+    "user2": "Paul Henry",
+    "weight": 9
+  },
+  {
+    "user1": "Robert Maldon",
+    "user2": "Lachlan Deck",
+    "weight": 9
+  },
+  {
+    "user1": "Robert Maldon",
+    "user2": "Marc Phoa",
+    "weight": 10
+  },
+  {
+    "user1": "Dean Netherton",
+    "user2": "Mick Reidy",
+    "weight": 23
+  },
+  {
+    "user1": "Bernie Schelberg",
+    "user2": "Aaron Triantafyllidis",
+    "weight": 20
+  },
+  {
+    "user1": "Bernie Schelberg",
+    "user2": "Ben Dewis",
+    "weight": 12
+  },
+  {
+    "user1": "Bernie Schelberg",
+    "user2": "Trevor Plant",
+    "weight": 10
+  },
+  {
+    "user1": "Bernie Schelberg",
+    "user2": "Adam Crough",
+    "weight": 4
+  },
+  {
+    "user1": "Bernie Schelberg",
+    "user2": "Nuzakat Ali",
+    "weight": 23
+  },
+  {
+    "user1": "Bernie Schelberg",
+    "user2": "Behrang Saeedzadeh",
+    "weight": 8
+  },
+  {
+    "user1": "Bernie Schelberg",
+    "user2": "Anthony Damtsis",
+    "weight": 7
+  },
+  {
+    "user1": "Bernie Schelberg",
+    "user2": "Julian Kelabora",
+    "weight": 15
+  },
+  {
+    "user1": "Bernie Schelberg",
+    "user2": "Pavi De Alwis",
+    "weight": 6
+  },
+  {
+    "user1": "Daniel Livolsi",
+    "user2": "Sean Brady",
+    "weight": 20
+  },
+  {
+    "user1": "Daniel Livolsi",
+    "user2": "Ricky Yim",
+    "weight": 36
+  },
+  {
+    "user1": "Daniel Livolsi",
+    "user2": "Andrew Spinks",
+    "weight": 20
+  },
+  {
+    "user1": "Daniel Livolsi",
+    "user2": "Sofy Basir",
+    "weight": 15
+  },
+  {
+    "user1": "Daniel Livolsi",
+    "user2": "Elliott Murray",
+    "weight": 12
+  },
+  {
+    "user1": "Daniel Livolsi",
+    "user2": "Jeff Cann",
+    "weight": 10
+  },
+  {
+    "user1": "Daniel Livolsi",
+    "user2": "Ronald Holshausen",
+    "weight": 14
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "Stephen Smithwick",
+    "weight": 6
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "David Swensen",
+    "weight": 9
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "Hanna Karlsson",
+    "weight": 6
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "Ren Shao",
+    "weight": 13
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "Rhydian Thomas",
+    "weight": 18
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "Ken Ong",
+    "weight": 22
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "Paul Henry",
+    "weight": 9
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "Charles Blaxland",
+    "weight": 9
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "Luca Pistolesi",
+    "weight": 8
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "Daniel Livolsi",
+    "weight": 6
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "Elliott Murray",
+    "weight": 12
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "Caoilte Dunne",
+    "weight": 10
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "Fotini Karadimas",
+    "weight": 7
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "Adrien Barbier",
+    "weight": 10
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "Sofy Basir",
+    "weight": 15
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "Ricky Yim",
+    "weight": 36
+  },
+  {
+    "user1": "Aaron Thomson",
+    "user2": "Jeff Cann",
+    "weight": 10
+  },
+  {
+    "user1": "Sofy Basir",
+    "user2": "Elliott Murray",
+    "weight": 12
+  },
+  {
+    "user1": "Sofy Basir",
+    "user2": "Ricky Yim",
+    "weight": 36
+  },
+  {
+    "user1": "Sofy Basir",
+    "user2": "Ken Ong",
+    "weight": 22
+  },
+  {
+    "user1": "Joo Aun Saw",
+    "user2": "Dean Netherton",
+    "weight": 8
+  },
+  {
+    "user1": "Joo Aun Saw",
+    "user2": "Cameron Smith",
+    "weight": 13
+  },
+  {
+    "user1": "Joo Aun Saw",
+    "user2": "Voon Wong",
+    "weight": 13
+  },
+  {
+    "user1": "Joo Aun Saw",
+    "user2": "Erik Danielsen",
+    "weight": 10
+  },
+  {
+    "user1": "Joo Aun Saw",
+    "user2": "Bernd Meyer",
+    "weight": 10
+  },
+  {
+    "user1": "Joo Aun Saw",
+    "user2": "Michael Gannon",
+    "weight": 10
+  },
+  {
+    "user1": "Joo Aun Saw",
+    "user2": "Johny Mattsson",
+    "weight": 8
+  },
+  {
+    "user1": "Daryl Wilding-McBride",
+    "user2": "Andrew Spinks",
+    "weight": 20
+  },
+  {
+    "user1": "Daryl Wilding-McBride",
+    "user2": "Travis Dixon",
+    "weight": 13
+  },
+  {
+    "user1": "Daryl Wilding-McBride",
+    "user2": "David Clarke",
+    "weight": 12
+  },
+  {
+    "user1": "Daryl Wilding-McBride",
+    "user2": "Anthony Damtsis",
+    "weight": 7
+  },
+  {
+    "user1": "Daryl Wilding-McBride",
+    "user2": "Behrang Saeedzadeh",
+    "weight": 8
+  },
+  {
+    "user1": "Daryl Wilding-McBride",
+    "user2": "Ken Ong",
+    "weight": 22
+  },
+  {
+    "user1": "Daryl Wilding-McBride",
+    "user2": "John Doxey",
+    "weight": 19
+  },
+  {
+    "user1": "Sean Brady",
+    "user2": "Stephen Bartlett",
+    "weight": 17
+  },
+  {
+    "user1": "Sean Brady",
+    "user2": "Brendan Spinks",
+    "weight": 12
+  },
+  {
+    "user1": "Sean Brady",
+    "user2": "Marc Phoa",
+    "weight": 10
+  },
+  {
+    "user1": "Carlos Chavez",
+    "user2": "Ross Floate",
+    "weight": 4
+  },
+  {
+    "user1": "Carlos Chavez",
+    "user2": "Mark Anderson",
+    "weight": 25
+  },
+  {
+    "user1": "Carlos Chavez",
+    "user2": "Bethany Skurrie",
+    "weight": 10
+  },
+  {
+    "user1": "Carlos Chavez",
+    "user2": "Ronald Holshausen",
+    "weight": 14
+  },
+  {
+    "user1": "Carlos Chavez",
+    "user2": "James Wolstenholme",
+    "weight": 7
+  },
+  {
+    "user1": "Carlos Chavez",
+    "user2": "Thomas Han",
+    "weight": 5
+  },
+  {
+    "user1": "Carlos Chavez",
+    "user2": "Mick Reidy",
+    "weight": 23
+  },
+  {
+    "user1": "Trevor Plant",
+    "user2": "John Doxey",
+    "weight": 19
+  },
+  {
+    "user1": "Trevor Plant",
+    "user2": "Bernie Schelberg",
+    "weight": 7
+  },
+  {
+    "user1": "Trevor Plant",
+    "user2": "Nuzakat Ali",
+    "weight": 23
+  },
+  {
+    "user1": "Trevor Plant",
+    "user2": "Mike Farah",
+    "weight": 8
+  },
+  {
+    "user1": "Elliott Murray",
+    "user2": "Ricky Yim",
+    "weight": 36
+  },
+  {
+    "user1": "Elliott Murray",
+    "user2": "Sofy Basir",
+    "weight": 15
+  },
+  {
+    "user1": "Ricky Yim",
+    "user2": "Valentinus Gunawan",
+    "weight": 4
+  },
+  {
+    "user1": "Ricky Yim",
+    "user2": "Andrew Spinks",
+    "weight": 20
+  },
+  {
+    "user1": "Thomas Han",
+    "user2": "Travis Dixon",
+    "weight": 13
+  },
+  {
+    "user1": "Thomas Han",
+    "user2": "Mike Farah",
+    "weight": 8
+  },
+  {
+    "user1": "Thomas Han",
+    "user2": "Daryl Wilding-McBride",
+    "weight": 33
+  },
+  {
+    "user1": "Thomas Han",
+    "user2": "David Clarke",
+    "weight": 12
+  },
+  {
+    "user1": "Bethany Skurrie",
+    "user2": "Mick Reidy",
+    "weight": 23
+  },
+  {
+    "user1": "Bethany Skurrie",
+    "user2": "John Kavadias",
+    "weight": 9
+  },
+  {
+    "user1": "Bethany Skurrie",
+    "user2": "Ben Dewis",
+    "weight": 12
+  },
+  {
+    "user1": "Bethany Skurrie",
+    "user2": "James Wolstenholme",
+    "weight": 7
+  },
+  {
+    "user1": "Bethany Skurrie",
+    "user2": "Travis Dixon",
+    "weight": 13
+  },
+  {
+    "user1": "Stephen Bartlett",
+    "user2": "Mike Bailey",
+    "weight": 3
+  },
+  {
+    "user1": "David Clarke",
+    "user2": "Daryl Wilding-McBride",
+    "weight": 33
+  },
+  {
+    "user1": "Sean Brady",
+    "user2": "Zoran Angelovski",
+    "weight": 11
+  },
+  {
+    "user1": "Sean Brady",
+    "user2": "Joo Aun Saw",
+    "weight": 14
+  },
+  {
+    "user1": "Lachlan Deck",
+    "user2": "Sean Brady",
+    "weight": 20
+  },
+  {
+    "user1": "Lachlan Deck",
+    "user2": "Zoran Angelovski",
+    "weight": 11
+  },
+  {
+    "user1": "Lachlan Deck",
+    "user2": "Stefan Leszkiewicz",
+    "weight": 7
+  },
+  {
+    "user1": "Lachlan Deck",
+    "user2": "Mark Anderson",
+    "weight": 25
+  },
+  {
+    "user1": "Lachlan Deck",
+    "user2": "Joo Aun Saw",
+    "weight": 14
+  },
+  {
+    "user1": "Lachlan Deck",
+    "user2": "Sergei Matheson",
+    "weight": 3
+  },
+  {
+    "user1": "Prabha Pillay",
+    "user2": "Valentinus Gunawan",
+    "weight": 4
+  },
+  {
+    "user1": "Prabha Pillay",
+    "user2": "John Doxey",
+    "weight": 19
+  },
+  {
+    "user1": "Prabha Pillay",
+    "user2": "Ren Shao",
+    "weight": 13
+  },
+  {
+    "user1": "Prabha Pillay",
+    "user2": "Mike Farah",
+    "weight": 8
+  },
+  {
+    "user1": "Prabha Pillay",
+    "user2": "Ken Ong",
+    "weight": 22
+  },
+  {
+    "user1": "Prabha Pillay",
+    "user2": "Dean Netherton",
+    "weight": 8
+  },
+  {
+    "user1": "Ricky Yim",
+    "user2": "Karen Darby",
+    "weight": 7
+  },
+  {
+    "user1": "Ricky Yim",
+    "user2": "Jeff Cann",
+    "weight": 10
+  },
+  {
+    "user1": "Anthony Damtsis",
+    "user2": "David Clarke",
+    "weight": 12
+  },
+  {
+    "user1": "David Swensen",
+    "user2": "Ronald Holshausen",
+    "weight": 14
+  },
+  {
+    "user1": "David Swensen",
+    "user2": "Mick Reidy",
+    "weight": 23
+  },
+  {
+    "user1": "David Swensen",
+    "user2": "Trevor Plant",
+    "weight": 10
+  },
+  {
+    "user1": "David Swensen",
+    "user2": "Carlos Chavez",
+    "weight": 2
+  },
+  {
+    "user1": "David Swensen",
+    "user2": "Daryl Wilding-McBride",
+    "weight": 33
+  },
+  {
+    "user1": "David Swensen",
+    "user2": "Peter Wilson",
+    "weight": 1
+  },
+  {
+    "user1": "David Swensen",
+    "user2": "Behrang Saeedzadeh",
+    "weight": 8
+  },
+  {
+    "user1": "David Swensen",
+    "user2": "Simone Carmody",
+    "weight": 7
+  },
+  {
+    "user1": "David Swensen",
+    "user2": "David Clarke",
+    "weight": 12
+  },
+  {
+    "user1": "Daryl Wilding-McBride",
+    "user2": "Prabha Pillay",
+    "weight": 8
+  },
+  {
+    "user1": "Travis Dixon",
+    "user2": "Julian Kelabora",
+    "weight": 15
+  },
+  {
+    "user1": "Travis Dixon",
+    "user2": "Michael Gannon",
+    "weight": 10
+  },
+  {
+    "user1": "Travis Dixon",
+    "user2": "Marc Phoa",
+    "weight": 10
+  },
+  {
+    "user1": "David Swensen",
+    "user2": "Robert Maldon",
+    "weight": 5
+  },
+  {
+    "user1": "Joshua Kinal",
+    "user2": "Ross Floate",
+    "weight": 4
+  },
+  {
+    "user1": "Konstantin Bartchenkov",
+    "user2": "Lachlan Deck",
+    "weight": 9
+  },
+  {
+    "user1": "Voon Wong",
+    "user2": "Michael Gannon",
+    "weight": 10
+  },
+  {
+    "user1": "Voon Wong",
+    "user2": "Stefan Leszkiewicz",
+    "weight": 7
+  },
+  {
+    "user1": "Voon Wong",
+    "user2": "Bernd Meyer",
+    "weight": 10
+  },
+  {
+    "user1": "Voon Wong",
+    "user2": "Will Hawkins",
+    "weight": 4
+  },
+  {
+    "user1": "Voon Wong",
+    "user2": "Erik Danielsen",
+    "weight": 10
+  },
+  {
+    "user1": "Voon Wong",
+    "user2": "Justin Berry",
+    "weight": 7
+  },
+  {
+    "user1": "Voon Wong",
+    "user2": "John Doxey",
+    "weight": 19
+  },
+  {
+    "user1": "Voon Wong",
+    "user2": "Zoran Angelovski",
+    "weight": 11
+  },
+  {
+    "user1": "Voon Wong",
+    "user2": "Daryl Wilding-McBride",
+    "weight": 33
+  },
+  {
+    "user1": "Voon Wong",
+    "user2": "Ben Kersten",
+    "weight": 5
+  },
+  {
+    "user1": "Voon Wong",
+    "user2": "Joo Aun Saw",
+    "weight": 14
+  },
+  {
+    "user1": "Voon Wong",
+    "user2": "Karen Darby",
+    "weight": 7
+  },
+  {
+    "user1": "Voon Wong",
+    "user2": "Dean Netherton",
+    "weight": 8
+  },
+  {
+    "user1": "Voon Wong",
+    "user2": "Mark Anderson",
+    "weight": 25
+  },
+  {
+    "user1": "Voon Wong",
+    "user2": "Motonobu Sakai",
+    "weight": 2
+  },
+  {
+    "user1": "Voon Wong",
+    "user2": "Cameron Smith",
+    "weight": 13
+  },
+  {
+    "user1": "Voon Wong",
+    "user2": "Shaji Panicker",
+    "weight": 1
+  },
+  {
+    "user1": "Voon Wong",
+    "user2": "Johny Mattsson",
+    "weight": 8
+  },
+  {
+    "user1": "Voon Wong",
+    "user2": "Thomas Han",
+    "weight": 5
+  },
+  {
+    "user1": "Cameron Smith",
+    "user2": "Joo Aun Saw",
+    "weight": 14
+  },
+  {
+    "user1": "Cameron Smith",
+    "user2": "Voon Wong",
+    "weight": 13
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Ross Floate",
+    "weight": 4
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Dallas Johnson",
+    "weight": 2
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Bethany Skurrie",
+    "weight": 10
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Pete Cohen",
+    "weight": 3
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Ben Dewis",
+    "weight": 12
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "John Doxey",
+    "weight": 19
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Marty Cook",
+    "weight": 1
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Stefan Leszkiewicz",
+    "weight": 7
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Nuzakat Ali",
+    "weight": 23
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Glenn Peters",
+    "weight": 1
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Luke Robins",
+    "weight": 2
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Ray Hilton",
+    "weight": 1
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Ben Kersten",
+    "weight": 5
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Andrew Spinks",
+    "weight": 20
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Pavi De Alwis",
+    "weight": 6
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Cade Diehm",
+    "weight": 1
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "James Wolstenholme",
+    "weight": 7
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Marc Phoa",
+    "weight": 10
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Simone Carmody",
+    "weight": 7
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Tarcio Saraiva",
+    "weight": 4
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Daryl Wilding-McBride",
+    "weight": 33
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Prabha Pillay",
+    "weight": 8
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Anthony Damtsis",
+    "weight": 7
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Andras Bubics",
+    "weight": 6
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Joshua Kinal",
+    "weight": 3
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Mick Reidy",
+    "weight": 23
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Thomas Han",
+    "weight": 5
+  },
+  {
+    "user1": "Luke Tupper",
+    "user2": "Ignatius Gilfedder",
+    "weight": 2
+  },
+  {
+    "user1": "Ronald Holshausen",
+    "user2": "Travis Dixon",
+    "weight": 13
+  },
+  {
+    "user1": "Trevor Plant",
+    "user2": "Ben Dewis",
+    "weight": 12
+  },
+  {
+    "user1": "Trevor Plant",
+    "user2": "Valentinus Gunawan",
+    "weight": 4
+  },
+  {
+    "user1": "Trevor Plant",
+    "user2": "Behrang Saeedzadeh",
+    "weight": 8
+  },
+  {
+    "user1": "Lachlan Deck",
+    "user2": "Paul Henry",
+    "weight": 9
+  },
+  {
+    "user1": "Lachlan Deck",
+    "user2": "Karen Darby",
+    "weight": 7
+  },
+  {
+    "user1": "Lachlan Deck",
+    "user2": "Kevin Alves",
+    "weight": 2
+  },
+  {
+    "user1": "Lachlan Deck",
+    "user2": "Alice Eller",
+    "weight": 5
+  },
+  {
+    "user1": "Lachlan Deck",
+    "user2": "Robert Maldon",
+    "weight": 5
+  },
+  {
+    "user1": "Lachlan Deck",
+    "user2": "Sonny Mai",
+    "weight": 3
+  },
+  {
+    "user1": "Lachlan Deck",
+    "user2": "Anna Buttfield",
+    "weight": 3
+  },
+  {
+    "user1": "Lachlan Deck",
+    "user2": "Ricky Yim",
+    "weight": 36
+  },
+  {
+    "user1": "Lachlan Deck",
+    "user2": "Fotini Karadimas",
+    "weight": 7
+  },
+  {
+    "user1": "Lachlan Deck",
+    "user2": "Jeff Cann",
+    "weight": 10
+  },
+  {
+    "user1": "Lachlan Deck",
+    "user2": "Ren Shao",
+    "weight": 13
+  },
+  {
+    "user1": "Lachlan Deck",
+    "user2": "Adrian Kelly",
+    "weight": 6
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Stephen Bartlett",
+    "weight": 17
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Ben Dewis",
+    "weight": 12
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Valentinus Gunawan",
+    "weight": 4
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Behrang Saeedzadeh",
+    "weight": 8
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Bernie Schelberg",
+    "weight": 7
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Trevor Plant",
+    "weight": 10
+  },
+  {
+    "user1": "Brendan Spinks",
+    "user2": "Aaron Triantafyllidis",
+    "weight": 20
+  },
+  {
+    "user1": "Stefan Leszkiewicz",
+    "user2": "George Papastamatopoulos",
+    "weight": 10
+  },
+  {
+    "user1": "Adrian Kelly",
+    "user2": "Lachlan Deck",
+    "weight": 9
+  },
+  {
+    "user1": "Behrang Saeedzadeh",
+    "user2": "George Papastamatopoulos",
+    "weight": 10
+  },
+  {
+    "user1": "Behrang Saeedzadeh",
+    "user2": "Glenn Thomson",
+    "weight": 2
+  },
+  {
+    "user1": "Behrang Saeedzadeh",
+    "user2": "Travis Dixon",
+    "weight": 13
+  },
+  {
+    "user1": "Behrang Saeedzadeh",
+    "user2": "Luke Robins",
+    "weight": 2
+  },
+  {
+    "user1": "Daryl Wilding-McBride",
+    "user2": "Ignatius Gilfedder",
+    "weight": 2
+  },
+  {
+    "user1": "Daryl Wilding-McBride",
+    "user2": "Ross Floate",
+    "weight": 4
+  },
+  {
+    "user1": "Stephen Bartlett",
+    "user2": "Mick Reidy",
+    "weight": 23
+  },
+  {
+    "user1": "Ken Ong",
+    "user2": "Ricky Yim",
+    "weight": 36
+  },
+  {
+    "user1": "Ken Ong",
+    "user2": "Jeff Cann",
+    "weight": 10
+  },
+  {
+    "user1": "Michael Gannon",
+    "user2": "Bethany Skurrie",
+    "weight": 10
+  },
+  {
+    "user1": "Michael Gannon",
+    "user2": "Erik Danielsen",
+    "weight": 10
+  },
+  {
+    "user1": "Michael Gannon",
+    "user2": "Mike Bailey",
+    "weight": 3
+  },
+  {
+    "user1": "Michael Gannon",
+    "user2": "Cameron Hine",
+    "weight": 1
+  },
+  {
+    "user1": "Michael Gannon",
+    "user2": "Sergei Matheson",
+    "weight": 3
+  },
+  {
+    "user1": "Michael Gannon",
+    "user2": "Ronald Holshausen",
+    "weight": 14
+  },
+  {
+    "user1": "Michael Gannon",
+    "user2": "Nuzakat Ali",
+    "weight": 23
+  },
+  {
+    "user1": "Michael Gannon",
+    "user2": "Sebastian Glazebrook",
+    "weight": 2
+  },
+  {
+    "user1": "Frank Losinno",
+    "user2": "Tal Rotbart",
+    "weight": 22
+  },
+  {
+    "user1": "Ronald Holshausen",
+    "user2": "Mark Anderson",
+    "weight": 25
+  },
+  {
+    "user1": "Ronald Holshausen",
+    "user2": "James Wolstenholme",
+    "weight": 7
+  },
+  {
+    "user1": "Ronald Holshausen",
+    "user2": "Thomas Han",
+    "weight": 5
+  },
+  {
+    "user1": "Ronald Holshausen",
+    "user2": "Will Hawkins",
+    "weight": 4
+  },
+  {
+    "user1": "Ronald Holshausen",
+    "user2": "Mick Reidy",
+    "weight": 23
+  },
+  {
+    "user1": "Ronald Holshausen",
+    "user2": "Alex Serdyuk",
+    "weight": 8
+  },
+  {
+    "user1": "Ronald Holshausen",
+    "user2": "Bethany Skurrie",
+    "weight": 10
+  },
+  {
+    "user1": "Rhydian Thomas",
+    "user2": "Richard Dean",
+    "weight": 11
+  },
+  {
+    "user1": "Richard Dean",
+    "user2": "Trevor Plant",
+    "weight": 10
+  },
+  {
+    "user1": "Richard Dean",
+    "user2": "Hanna Karlsson",
+    "weight": 6
+  },
+  {
+    "user1": "Richard Dean",
+    "user2": "Adrien Barbier",
+    "weight": 10
+  },
+  {
+    "user1": "Richard Dean",
+    "user2": "Sebastian Glazebrook",
+    "weight": 2
+  },
+  {
+    "user1": "Richard Dean",
+    "user2": "Nuzakat Ali",
+    "weight": 23
+  },
+  {
+    "user1": "Richard Dean",
+    "user2": "Anna Buttfield",
+    "weight": 3
+  },
+  {
+    "user1": "Richard Dean",
+    "user2": "Bruno Chauvet",
+    "weight": 6
+  },
+  {
+    "user1": "Richard Dean",
+    "user2": "Tal Rotbart",
+    "weight": 22
+  },
+  {
+    "user1": "Richard Dean",
+    "user2": "George Papastamatopoulos",
+    "weight": 10
+  },
+  {
+    "user1": "Richard Dean",
+    "user2": "Caoilte Dunne",
+    "weight": 10
+  },
+  {
+    "user1": "Richard Dean",
+    "user2": "Stephen Bartlett",
+    "weight": 17
+  },
+  {
+    "user1": "Richard Dean",
+    "user2": "David Swensen",
+    "weight": 9
+  },
+  {
+    "user1": "Richard Dean",
+    "user2": "Justin Berry",
+    "weight": 7
+  },
+  {
+    "user1": "Richard Dean",
+    "user2": "Luca Pistolesi",
+    "weight": 8
+  },
+  {
+    "user1": "Richard Dean",
+    "user2": "Ren Shao",
+    "weight": 13
+  },
+  {
+    "user1": "Richard Dean",
+    "user2": "Brendan Spinks",
+    "weight": 12
+  },
+  {
+    "user1": "Richard Dean",
+    "user2": "Ben Dewis",
+    "weight": 12
+  },
+  {
+    "user1": "Luca Pistolesi",
+    "user2": "Richard Dean",
+    "weight": 11
+  },
+  {
+    "user1": "Luca Pistolesi",
+    "user2": "Fotini Karadimas",
+    "weight": 7
+  },
+  {
+    "user1": "Stephen Bartlett",
+    "user2": "Adam Crough",
+    "weight": 4
+  },
+  {
+    "user1": "Stephen Bartlett",
+    "user2": "Joshua Kinal",
+    "weight": 3
+  },
+  {
+    "user1": "Stephen Bartlett",
+    "user2": "Marc Phoa",
+    "weight": 10
+  },
+  {
+    "user1": "John Doxey",
+    "user2": "Lachlan Deck",
+    "weight": 9
+  },
+  {
+    "user1": "John Doxey",
+    "user2": "Cameron Smith",
+    "weight": 13
+  },
+  {
+    "user1": "Adrian Kelly",
+    "user2": "Ricky Yim",
+    "weight": 36
+  },
+  {
+    "user1": "Adrian Kelly",
+    "user2": "Jeff Cann",
+    "weight": 10
+  },
+  {
+    "user1": "Adrian Kelly",
+    "user2": "Karen Darby",
+    "weight": 7
+  },
+  {
+    "user1": "Travis Dixon",
+    "user2": "Anthony Damtsis",
+    "weight": 7
+  },
+  {
+    "user1": "Travis Dixon",
+    "user2": "Richard Fyffe",
+    "weight": 7
+  },
+  {
+    "user1": "Travis Dixon",
+    "user2": "Glenn Thomson",
+    "weight": 2
+  },
+  {
+    "user1": "Travis Dixon",
+    "user2": "Adrian Kelly",
+    "weight": 6
+  },
+  {
+    "user1": "Travis Dixon",
+    "user2": "Behrang Saeedzadeh",
+    "weight": 8
+  },
+  {
+    "user1": "Travis Dixon",
+    "user2": "Mike Farah",
+    "weight": 8
+  },
+  {
+    "user1": "Adam Crough",
+    "user2": "Justin Berry",
+    "weight": 7
+  },
+  {
+    "user1": "Adam Crough",
+    "user2": "George Papastamatopoulos",
+    "weight": 10
+  },
+  {
+    "user1": "Trevor Plant",
+    "user2": "David Clarke",
+    "weight": 12
+  },
+  {
+    "user1": "Trevor Plant",
+    "user2": "George Papastamatopoulos",
+    "weight": 10
+  },
+  {
+    "user1": "Trevor Plant",
+    "user2": "Stephen Bartlett",
+    "weight": 17
+  },
+  {
+    "user1": "Trevor Plant",
+    "user2": "Brendan Spinks",
+    "weight": 12
+  },
+  {
+    "user1": "Ken Ong",
+    "user2": "Stephen Bartlett",
+    "weight": 17
+  },
+  {
+    "user1": "Caoilte Dunne",
+    "user2": "Hanna Karlsson",
+    "weight": 6
+  },
+  {
+    "user1": "Caoilte Dunne",
+    "user2": "Joel Jamieson",
+    "weight": 3
+  },
+  {
+    "user1": "Justin Berry",
+    "user2": "Mike Farah",
+    "weight": 8
+  },
+  {
+    "user1": "Justin Berry",
+    "user2": "Adrian Kelly",
+    "weight": 6
+  },
+  {
+    "user1": "Justin Berry",
+    "user2": "Adrien Barbier",
+    "weight": 10
+  },
+  {
+    "user1": "Justin Berry",
+    "user2": "Richard Fyffe",
+    "weight": 7
+  },
+  {
+    "user1": "Justin Berry",
+    "user2": "Anthony Damtsis",
+    "weight": 7
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "Ben Dewis",
+    "weight": 12
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "Daryl Wilding-McBride",
+    "weight": 33
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "David Clarke",
+    "weight": 12
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "Michael Dwyer",
+    "weight": 1
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "Sonny Mai",
+    "weight": 3
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "Brendan Spinks",
+    "weight": 12
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "Jenny Tran",
+    "weight": 1
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "Andrew Spinks",
+    "weight": 20
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "Richard Fyffe",
+    "weight": 7
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "Stephen Bartlett",
+    "weight": 17
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "Aaron Triantafyllidis",
+    "weight": 20
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "Amir Ansari",
+    "weight": 5
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "Adam Crough",
+    "weight": 4
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "Mike Farah",
+    "weight": 8
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "Steph Bannister",
+    "weight": 8
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "Sam Bergin",
+    "weight": 4
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "Voon Wong",
+    "weight": 13
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "Stefan Leszkiewicz",
+    "weight": 7
+  },
+  {
+    "user1": "Julian Kelabora",
+    "user2": "Alex Serdyuk",
+    "weight": 8
+  },
+  {
+    "user1": "Rhydian Thomas",
+    "user2": "Ben Kersten",
+    "weight": 5
+  },
+  {
+    "user1": "Tal Rotbart",
+    "user2": "Steph Bannister",
+    "weight": 8
+  },
+  {
+    "user1": "Tal Rotbart",
+    "user2": "Mick Reidy",
+    "weight": 23
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "Chris Kohler",
+    "weight": 1
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "Richard Dean",
+    "weight": 11
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "Tristan Morgan",
+    "weight": 2
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "David Barr",
+    "weight": 4
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "Sonny Mai",
+    "weight": 3
+  },
+  {
+    "user1": "Bruno Chauvet",
+    "user2": "Joel Jamieson",
+    "weight": 3
+  },
+  {
+    "user1": "Caoilte Dunne",
+    "user2": "Ken Ong",
+    "weight": 22
+  },
+  {
+    "user1": "Caoilte Dunne",
+    "user2": "Aaron Triantafyllidis",
+    "weight": 20
+  },
+  {
+    "user1": "Caoilte Dunne",
+    "user2": "Stephen Smithwick",
+    "weight": 6
+  },
+  {
+    "user1": "Caoilte Dunne",
+    "user2": "David Swensen",
+    "weight": 9
+  },
+  {
+    "user1": "Fred Rotbart",
+    "user2": "Voon Wong",
+    "weight": 13
+  },
+  {
+    "user1": "Fred Rotbart",
+    "user2": "Daryl Wilding-McBride",
+    "weight": 33
+  },
+  {
+    "user1": "Karen Darby",
+    "user2": "Sofy Basir",
+    "weight": 15
+  },
+  {
+    "user1": "Karen Darby",
+    "user2": "Ricky Yim",
+    "weight": 36
+  },
+  {
+    "user1": "Tal Rotbart",
+    "user2": "Aaron Triantafyllidis",
+    "weight": 20
+  },
+  {
+    "user1": "Tal Rotbart",
+    "user2": "Alex Serdyuk",
+    "weight": 8
+  },
+  {
+    "user1": "George Papastamatopoulos",
+    "user2": "Justin Berry",
+    "weight": 7
+  },
+  {
+    "user1": "Michael Gannon",
+    "user2": "Warner Godfrey",
+    "weight": 3
+  },
+  {
+    "user1": "Hanna Karlsson",
+    "user2": "Joel Jamieson",
+    "weight": 3
+  },
+  {
+    "user1": "Charles Blaxland",
+    "user2": "David Barr",
+    "weight": 4
+  },
+  {
+    "user1": "Charles Blaxland",
+    "user2": "Kevin Littlejohn",
+    "weight": 4
+  },
+  {
+    "user1": "Charles Blaxland",
+    "user2": "David Swensen",
+    "weight": 9
+  },
+  {
+    "user1": "Charles Blaxland",
+    "user2": "Bethany Skurrie",
+    "weight": 10
+  },
+  {
+    "user1": "Ken Ong",
+    "user2": "Andras Bubics",
+    "weight": 6
+  },
+  {
+    "user1": "Ken Ong",
+    "user2": "John Doxey",
+    "weight": 19
+  },
+  {
+    "user1": "Ken Ong",
+    "user2": "Alex Serdyuk",
+    "weight": 8
+  },
+  {
+    "user1": "Ken Ong",
+    "user2": "Cameron Smith",
+    "weight": 13
+  },
+  {
+    "user1": "Aaron Triantafyllidis",
+    "user2": "Bethany Skurrie",
+    "weight": 10
+  },
+  {
+    "user1": "Aaron Triantafyllidis",
+    "user2": "Andrew Spinks",
+    "weight": 20
+  },
+  {
+    "user1": "Aaron Triantafyllidis",
+    "user2": "Mick Reidy",
+    "weight": 23
+  },
+  {
+    "user1": "Tal Rotbart",
+    "user2": "Caoilte Dunne",
+    "weight": 10
+  },
+  {
+    "user1": "Mark Anderson",
+    "user2": "Stefan Leszkiewicz",
+    "weight": 7
+  },
+  {
+    "user1": "Mark Anderson",
+    "user2": "Kristian Handberg",
+    "weight": 2
+  },
+  {
+    "user1": "Kristian Handberg",
+    "user2": "Jerome Lebel-Jones",
+    "weight": 5
+  },
+  {
+    "user1": "Kristian Handberg",
+    "user2": "Joe Losinno",
+    "weight": 14
+  },
+  {
+    "user1": "Kristian Handberg",
+    "user2": "Mark Anderson",
+    "weight": 25
+  },
+  {
+    "user1": "Kristian Handberg",
+    "user2": "Voon Wong",
+    "weight": 13
+  },
+  {
+    "user1": "Kristian Handberg",
+    "user2": "Clency Coutet",
+    "weight": 12
+  },
+  {
+    "user1": "Kristian Handberg",
+    "user2": "Zoran Angelovski",
+    "weight": 11
+  },
+  {
+    "user1": "Kristian Handberg",
+    "user2": "Paula Ngov",
+    "weight": 20
+  },
+  {
+    "user1": "Johny Mattsson",
+    "user2": "Andras Bubics",
+    "weight": 6
+  },
+  {
+    "user1": "Johny Mattsson",
+    "user2": "Mark Anderson",
+    "weight": 25
+  },
+  {
+    "user1": "Johny Mattsson",
+    "user2": "Voon Wong",
+    "weight": 13
+  },
+  {
+    "user1": "Johny Mattsson",
+    "user2": "Stephen Bartlett",
+    "weight": 17
+  },
+  {
+    "user1": "Johny Mattsson",
+    "user2": "Bernd Meyer",
+    "weight": 10
+  },
+  {
+    "user1": "Johny Mattsson",
+    "user2": "Joo Aun Saw",
+    "weight": 14
+  },
+  {
+    "user1": "Johny Mattsson",
+    "user2": "Sam Bergin",
+    "weight": 4
+  },
+  {
+    "user1": "Adrien Barbier",
+    "user2": "Caoilte Dunne",
+    "weight": 10
+  },
+  {
+    "user1": "James Wolstenholme",
+    "user2": "Brendan Spinks",
+    "weight": 12
+  },
+  {
+    "user1": "Mick Reidy",
+    "user2": "Ian Donaldson",
+    "weight": 4
+  },
+  {
+    "user1": "Mick Reidy",
+    "user2": "Stephen Bartlett",
+    "weight": 17
+  },
+  {
+    "user1": "Mick Reidy",
+    "user2": "Kevin Littlejohn",
+    "weight": 4
+  },
+  {
+    "user1": "Charles Blaxland",
+    "user2": "Tal Rotbart",
+    "weight": 22
+  },
+  {
+    "user1": "Charles Blaxland",
+    "user2": "Fred Rotbart",
+    "weight": 3
+  },
+  {
+    "user1": "Caoilte Dunne",
+    "user2": "Adrien Barbier",
+    "weight": 10
+  },
+  {
+    "user1": "Johny Mattsson",
+    "user2": "Amir Ansari",
+    "weight": 5
+  },
+  {
+    "user1": "Johny Mattsson",
+    "user2": "Zoran Angelovski",
+    "weight": 11
+  },
+  {
+    "user1": "Johny Mattsson",
+    "user2": "Richard Fyffe",
+    "weight": 7
+  },
+  {
+    "user1": "Johny Mattsson",
+    "user2": "Julian Kelabora",
+    "weight": 15
+  },
+  {
+    "user1": "Johny Mattsson",
+    "user2": "Anthony Damtsis",
+    "weight": 7
+  },
+  {
+    "user1": "Paul Greenwood",
+    "user2": "Mark Anderson",
+    "weight": 25
+  },
+  {
+    "user1": "Charles Blaxland",
+    "user2": "Steph Bannister",
+    "weight": 8
+  },
+  {
+    "user1": "Charles Blaxland",
+    "user2": "Paul Henry",
+    "weight": 9
+  },
+  {
+    "user1": "Alice Eller",
+    "user2": "Adrien Barbier",
+    "weight": 10
+  },
+  {
+    "user1": "Ren Shao",
+    "user2": "David Barr",
+    "weight": 4
+  },
+  {
+    "user1": "Ren Shao",
+    "user2": "Caoilte Dunne",
+    "weight": 10
+  },
+  {
+    "user1": "Ren Shao",
+    "user2": "Steph Bannister",
+    "weight": 8
+  },
+  {
+    "user1": "Charles Blaxland",
+    "user2": "Tristan Morgan",
+    "weight": 2
+  },
+  {
+    "user1": "Charles Blaxland",
+    "user2": "Ken Ong",
+    "weight": 22
+  },
+  {
+    "user1": "Charles Blaxland",
+    "user2": "Sofy Basir",
+    "weight": 15
+  },
+  {
+    "user1": "Charles Blaxland",
+    "user2": "Stephen Bartlett",
+    "weight": 17
+  },
+  {
+    "user1": "Nuzakat Ali",
+    "user2": "Voon Wong",
+    "weight": 13
+  },
+  {
+    "user1": "Nuzakat Ali",
+    "user2": "George Papastamatopoulos",
+    "weight": 10
+  },
+  {
+    "user1": "Nuzakat Ali",
+    "user2": "Sol Pandiella-McLeod",
+    "weight": 3
+  },
+  {
+    "user1": "Nuzakat Ali",
+    "user2": "Bernd Meyer",
+    "weight": 10
+  },
+  {
+    "user1": "Nuzakat Ali",
+    "user2": "Trevor Plant",
+    "weight": 10
+  },
+  {
+    "user1": "Nuzakat Ali",
+    "user2": "Joo Aun Saw",
+    "weight": 14
+  },
+  {
+    "user1": "Nuzakat Ali",
+    "user2": "Zoran Angelovski",
+    "weight": 11
+  },
+  {
+    "user1": "Nuzakat Ali",
+    "user2": "Amir Ansari",
+    "weight": 5
+  },
+  {
+    "user1": "Nuzakat Ali",
+    "user2": "Johny Mattsson",
+    "weight": 8
+  },
+  {
+    "user1": "Nuzakat Ali",
+    "user2": "Andras Bubics",
+    "weight": 6
+  },
+  {
+    "user1": "Nuzakat Ali",
+    "user2": "Alex Serdyuk",
+    "weight": 8
+  },
+  {
+    "user1": "Nuzakat Ali",
+    "user2": "Mark Anderson",
+    "weight": 25
+  },
+  {
+    "user1": "Nuzakat Ali",
+    "user2": "Pavi De Alwis",
+    "weight": 6
+  },
+  {
+    "user1": "Nuzakat Ali",
+    "user2": "Travis Dixon",
+    "weight": 13
+  },
+  {
+    "user1": "Dallas Johnson",
+    "user2": "Simone Carmody",
+    "weight": 7
+  },
+  {
+    "user1": "Dallas Johnson",
+    "user2": "Luke Tupper",
+    "weight": 2
+  },
+  {
+    "user1": "Dallas Johnson",
+    "user2": "Tarcio Saraiva",
+    "weight": 4
+  },
+  {
+    "user1": "Dallas Johnson",
+    "user2": "Pete Cohen",
+    "weight": 3
+  },
+  {
+    "user1": "Andras Bubics",
+    "user2": "Pavi De Alwis",
+    "weight": 6
+  },
+  {
+    "user1": "Andras Bubics",
+    "user2": "Richard Fyffe",
+    "weight": 7
+  },
+  {
+    "user1": "Andras Bubics",
+    "user2": "Ben Kersten",
+    "weight": 5
+  },
+  {
+    "user1": "Andras Bubics",
+    "user2": "Trevor Plant",
+    "weight": 10
+  },
+  {
+    "user1": "Andras Bubics",
+    "user2": "Tarcio Saraiva",
+    "weight": 4
+  },
+  {
+    "user1": "Ricky Yim",
+    "user2": "Adrien Barbier",
+    "weight": 10
+  },
+  {
+    "user1": "Kevin Alves",
+    "user2": "Bruno Chauvet",
+    "weight": 6
+  },
+  {
+    "user1": "Kevin Alves",
+    "user2": "Ren Shao",
+    "weight": 13
+  },
+  {
+    "user1": "Kevin Alves",
+    "user2": "Kevin Littlejohn",
+    "weight": 4
+  },
+  {
+    "user1": "Kevin Alves",
+    "user2": "Fotini Karadimas",
+    "weight": 7
+  },
+  {
+    "user1": "Kevin Alves",
+    "user2": "Steph Bannister",
+    "weight": 8
+  },
+  {
+    "user1": "Kevin Alves",
+    "user2": "Robert Maldon",
+    "weight": 5
+  },
+  {
+    "user1": "Kevin Alves",
+    "user2": "Caoilte Dunne",
+    "weight": 10
+  },
+  {
+    "user1": "Kevin Alves",
+    "user2": "Alex Serdyuk",
+    "weight": 8
+  },
+  {
+    "user1": "Kevin Alves",
+    "user2": "David Swensen",
+    "weight": 9
+  },
+  {
+    "user1": "Kevin Alves",
+    "user2": "David Barr",
+    "weight": 4
+  },
+  {
+    "user1": "Kevin Alves",
+    "user2": "Karen Darby",
+    "weight": 7
+  },
+  {
+    "user1": "Andrew Spinks",
+    "user2": "Alex Serdyuk",
+    "weight": 8
+  },
+  {
+    "user1": "Naomi Mcgill",
+    "user2": "Paul Henry",
+    "weight": 9
+  },
+  {
+    "user1": "Robert Maldon",
+    "user2": "Alice Eller",
+    "weight": 5
+  },
+  {
+    "user1": "John Doxey",
+    "user2": "Andras Bubics",
+    "weight": 6
+  },
+  {
+    "user1": "John Doxey",
+    "user2": "Justin Berry",
+    "weight": 7
+  },
+  {
+    "user1": "John Doxey",
+    "user2": "Alex Ooi",
+    "weight": 1
+  },
+  {
+    "user1": "John Doxey",
+    "user2": "James Wolstenholme",
+    "weight": 7
+  },
+  {
+    "user1": "John Doxey",
+    "user2": "Andrew Spinks",
+    "weight": 20
+  },
+  {
+    "user1": "John Doxey",
+    "user2": "George Papastamatopoulos",
+    "weight": 10
+  },
+  {
+    "user1": "Andrew Spinks",
+    "user2": "George Papastamatopoulos",
+    "weight": 10
+  },
+  {
+    "user1": "Andrew Spinks",
+    "user2": "Frank Losinno",
+    "weight": 4
+  },
+  {
+    "user1": "Andrew Spinks",
+    "user2": "Aaron Triantafyllidis",
+    "weight": 20
+  },
+  {
+    "user1": "Lachlan Deck",
+    "user2": "Daniel Baker",
+    "weight": 2
+  },
+  {
+    "user1": "Sergei Matheson",
+    "user2": "Aaron Triantafyllidis",
+    "weight": 20
+  },
+  {
+    "user1": "Sergei Matheson",
+    "user2": "Pavi De Alwis",
+    "weight": 6
+  },
+  {
+    "user1": "Sergei Matheson",
+    "user2": "Stephen Bartlett",
+    "weight": 17
+  },
+  {
+    "user1": "Sergei Matheson",
+    "user2": "Trevor Plant",
+    "weight": 10
+  },
+  {
+    "user1": "Sergei Matheson",
+    "user2": "Adrian Kelly",
+    "weight": 6
+  },
+  {
+    "user1": "Sofy Basir",
+    "user2": "Caoilte Dunne",
+    "weight": 10
+  },
+  {
+    "user1": "Adrien Barbier",
+    "user2": "Richard Dean",
+    "weight": 11
+  },
+  {
+    "user1": "Adrien Barbier",
+    "user2": "Ken Ong",
+    "weight": 22
+  },
+  {
+    "user1": "Adrien Barbier",
+    "user2": "Luca Pistolesi",
+    "weight": 8
+  },
+  {
+    "user1": "Adrien Barbier",
+    "user2": "Elliott Murray",
+    "weight": 12
+  },
+  {
+    "user1": "Adrien Barbier",
+    "user2": "Charles Blaxland",
+    "weight": 9
+  },
+  {
+    "user1": "Adrien Barbier",
+    "user2": "Rhydian Thomas",
+    "weight": 18
+  },
+  {
+    "user1": "Warner Godfrey",
+    "user2": "Dean Netherton",
+    "weight": 8
+  },
+  {
+    "user1": "Warner Godfrey",
+    "user2": "Michael Gannon",
+    "weight": 10
+  },
+  {
+    "user1": "Michael Gannon",
+    "user2": "Mike Farah",
+    "weight": 8
+  },
+  {
+    "user1": "Alice Eller",
+    "user2": "Josh Male",
+    "weight": 1
+  },
+  {
+    "user1": "Alice Eller",
+    "user2": "Frederick Leung",
+    "weight": 1
+  },
+  {
+    "user1": "Alice Eller",
+    "user2": "Richard Dean",
+    "weight": 11
+  },
+  {
+    "user1": "Alice Eller",
+    "user2": "Bruno Chauvet",
+    "weight": 6
+  },
+  {
+    "user1": "Paula Ngov",
+    "user2": "Amir Ansari",
+    "weight": 5
+  },
+  {
+    "user1": "Paula Ngov",
+    "user2": "Sol Pandiella-McLeod",
+    "weight": 3
+  },
+  {
+    "user1": "Paula Ngov",
+    "user2": "Tarcio Saraiva",
+    "weight": 4
+  },
+  {
+    "user1": "Paula Ngov",
+    "user2": "Kirsty Miller",
+    "weight": 2
+  },
+  {
+    "user1": "Paula Ngov",
+    "user2": "Travis Dixon",
+    "weight": 13
+  },
+  {
+    "user1": "Paula Ngov",
+    "user2": "Jerome Lebel-Jones",
+    "weight": 5
+  },
+  {
+    "user1": "Jerome Lebel-Jones",
+    "user2": "Kirsty Miller",
+    "weight": 2
+  },
+  {
+    "user1": "Jerome Lebel-Jones",
+    "user2": "Paula Ngov",
+    "weight": 20
+  },
+  {
+    "user1": "Mick Reidy",
+    "user2": "Sol Pandiella-McLeod",
+    "weight": 3
+  },
+  {
+    "user1": "Mick Reidy",
+    "user2": "Amir Ansari",
+    "weight": 5
+  },
+  {
+    "user1": "Mick Reidy",
+    "user2": "Paula Ngov",
+    "weight": 20
+  },
+  {
+    "user1": "Mick Reidy",
+    "user2": "Jessica Lowe",
+    "weight": 2
+  },
+  {
+    "user1": "Mick Reidy",
+    "user2": "Ricky Yim",
+    "weight": 36
+  },
+  {
+    "user1": "Alistair MacGregor",
+    "user2": "Daryl Wilding-McBride",
+    "weight": 33
+  },
+  {
+    "user1": "Alistair MacGregor",
+    "user2": "Lachlan Deck",
+    "weight": 9
+  },
+  {
+    "user1": "Alistair MacGregor",
+    "user2": "Lincoln  Fitzsimons",
+    "weight": 1
+  },
+  {
+    "user1": "Alistair MacGregor",
+    "user2": "Pete Cohen",
+    "weight": 3
+  },
+  {
+    "user1": "Alistair MacGregor",
+    "user2": "James Wolstenholme",
+    "weight": 7
+  },
+  {
+    "user1": "Alistair MacGregor",
+    "user2": "Daniel Baker",
+    "weight": 2
+  },
+  {
+    "user1": "Alistair MacGregor",
+    "user2": "Frank Losinno",
+    "weight": 4
+  },
+  {
+    "user1": "Alistair MacGregor",
+    "user2": "Elliott Murray",
+    "weight": 12
+  }
+]}
