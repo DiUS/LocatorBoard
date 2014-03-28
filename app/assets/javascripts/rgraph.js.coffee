@@ -55,9 +55,9 @@ this.initRGraph = ->
       else
         style.cursor = 'pointer'
         style.color = "#FFFFFF"
-        alpha = 1 - (2 * node._depth / 10)
+        alpha = 1 - (5 * node._depth / 10)
         style.opacity = alpha
-        style.fontSize = "#{if node._depth is 0 then 0.8 else 0.5}em";
+        style.fontSize = "0.8em"
 
 
 
