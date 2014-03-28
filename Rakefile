@@ -19,11 +19,12 @@ task :transform => :environment do
 
   	PeopleRelationship.order(:proj_id).all.each do |pr|
 
+
   		if last_project != pr.proj_id
-  			first_user = pr.username
+  			first_user = "#{pr.first_name} #{pr.last_name}"
   			last_project = pr.proj_id
   		else
-  			file.write "{#{first_user}, #{pr.username}},\n"
+  			file.write "{\"user1\": \"#{first_user}\", \"user2:\" \"#{pr.first_name} #{pr.last_name}\"},\n"
 
   		end
 
