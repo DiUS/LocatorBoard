@@ -1,4 +1,9 @@
 #container(ng-controller='LocatorBoardController')
-  %h1.text-center {{ angular_message }}
+	.row
+		.large-12.columns
+			.text-center
+				%h1 {{ angular_message }}
+				%form
+					%input(type='text' name='search' placeholder="Enter employee name...")
 
-  #infovis
+	#infovis
