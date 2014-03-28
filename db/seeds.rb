@@ -19,3 +19,12 @@ sql_command = "psql -U #{dbuser} -h #{dbhost} #{dbname} -c \"#{copy_command}\""
 puts sql_command
 
 `#{sql_command}`
+
+Users.delete_all
+
+PeopleRelationship.all.uniq { |p| p.username }.each do |p|
+
+	Users.create!(:name => p.first_name + " " + p.last_name, :username => p.username)
+
+
+end
