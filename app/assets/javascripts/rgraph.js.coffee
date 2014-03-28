@@ -28,7 +28,8 @@ this.initRGraph = ->
     Edge:
       overridable: true
       color: '#C17878'
-      lineWidth: 1.5
+      lineWidth: 0.5,
+      alpha: 0.3
 
     # Add navigation capabilities:
     # zooming by scrolling and panning.
@@ -49,11 +50,16 @@ this.initRGraph = ->
     onPlaceLabel: (domElement, node) ->
       style = domElement.style
       style.display = ''
-      style.cursor = 'pointer'
-      style.color = "#FFFFFF"
-      alpha = 1 - (2 * node._depth / 10)
-      style.opacity = alpha
-      style.fontSize = "#{if node._depth is 0 then 0.8 else 0.5}em";
+      if (node._depth > 1)
+        style.display = 'none'
+      else
+        style.cursor = 'pointer'
+        style.color = "#FFFFFF"
+        alpha = 1 - (2 * node._depth / 10)
+        style.opacity = alpha
+        style.fontSize = "#{if node._depth is 0 then 0.8 else 0.5}em";
+
+
 
       left = parseInt(style.left)
       w = domElement.offsetWidth
