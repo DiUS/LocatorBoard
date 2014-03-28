@@ -24,7 +24,7 @@ task :transform => :environment do
   			first_user = "#{pr.first_name} #{pr.last_name}"
   			last_project = pr.proj_id
   		else
-  			file.write "{\"user1\": \"#{first_user}\", \"user2:\" \"#{pr.first_name} #{pr.last_name}\"},\n"
+  			file.write "{\"user1\": \"#{first_user}\", \"user2\": \"#{pr.first_name} #{pr.last_name}\"},\n"
 
   		end
 
