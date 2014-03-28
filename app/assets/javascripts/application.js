@@ -12,6 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require foundation
 //= require angular
 //= require angular-resource
 //= require angular-sanitize
@@ -21,3 +22,4 @@
 //= require_tree .
 
 _.mixin(_.str.exports());
+$(function(){ $(document).foundation(); });
