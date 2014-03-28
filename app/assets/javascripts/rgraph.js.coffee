@@ -50,17 +50,10 @@ this.initRGraph = ->
       style = domElement.style
       style.display = ''
       style.cursor = 'pointer'
-
-      if node._depth <= 1
-        style.fontSize = "0.8em"
-        style.color = "#ccc"
-      else if node._depth == 2
-        style.fontSize = "0.7em"
-        style.color = "#494949"
-      else
-        style.fontSize = "0.5em"
-        style.color = "#393939"
-        style.display = 'none'
+      style.color = "#FFFFFF"
+      alpha = 1 - (2 * node._depth / 10)
+      style.opacity = alpha
+      style.fontSize = "#{if node._depth is 0 then 0.8 else 0.5}em";
 
       left = parseInt(style.left)
       w = domElement.offsetWidth
