@@ -23,7 +23,7 @@ this.initRGraph = ->
         'shadowColor': '#ccc'
   # Set Edge and Node colors.
     Node:
-      color: '#ddeeff'
+      color: '#777777'
       overridable: true
     Edge:
       overridable: true
@@ -37,6 +37,10 @@ this.initRGraph = ->
       enable: true
       panning: true
       zooming: 10
+
+    onAfterPlotNode: (node) ->
+      if node._depth is 0
+        node.setData('color', '#BB0000')
 
   # Add the node's name into the label
   # This method is called only once, on label creation.
@@ -58,8 +62,6 @@ this.initRGraph = ->
         alpha = 1 - (5 * node._depth / 10)
         style.opacity = alpha
         style.fontSize = "0.8em"
-
-
 
       left = parseInt(style.left)
       w = domElement.offsetWidth
