@@ -47,7 +47,7 @@ this.initRGraph = ->
   # Add the node's name into the label
   # This method is called only once, on label creation.
     onCreateLabel: (domElement, node) ->
-      domElement.innerHTML = "<p>" + node.name + "</p>"
+      domElement.innerHTML = "<p class='labelName'>" + node.name + "</p>"
       domElement.onclick = -> rgraph.onClick(node.id)
 
   # Change the node's style based on its position.
@@ -56,6 +56,7 @@ this.initRGraph = ->
     onPlaceLabel: (domElement, node) ->
       style = domElement.style
       style.display = ''
+
       if (node._depth > 1)
         style.display = 'none'
       else
@@ -71,7 +72,7 @@ this.initRGraph = ->
 
     onBeforePlotLine: (adj) ->
       if adj.nodeFrom._depth == 0 or adj.nodeTo._depth == 0
-        adj.setData('color', 'white')
+        adj.setData('color', '#AFAFAF')
         adj.setData('alpha', '1.0')
         adj.setData('lineWidth', '1.0')
       else
